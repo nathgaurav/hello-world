@@ -1,2 +1,1 @@
-this file has been changed now with pull request
-and this is the change.
+this file has been changed now with pull request.
