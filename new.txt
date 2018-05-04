@@ -1,2 +1,3 @@
 this file has been changed now.
-commiting and adding together
+commiting and adding together with pull
+
