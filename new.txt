@@ -1,1 +1,2 @@
-this file has been changed now with git bash..
+this file has been changed now.
+commiting through CLI.
